@@ -1,7 +1,7 @@
 # Inicia Git
 git ini
 # Conecta ao diretório remoto
-git remote add origin <URL do repositório do GitHub>
+git remote add origin <URL do repositório do GitHub> 
 # Adiciona ao stage e comita
 git add .
 git commit -m "Mensagem"
@@ -16,3 +16,13 @@ git push -u origin master
 # Clonar o diretório
 #
 git clone <repositório>
+
+
+#Exemplo GITHUB
+# echo "# jsPDF" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M master
+# git remote add origin https://github.com/helder-hermani/jsPDF.git
+# git push -u origin master

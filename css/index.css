@@ -1,0 +1,10 @@
+/* @mixin btn{
+    border: solid 1px red;
+    background-color: yellow;
+} */
+
+.meubotao{
+    /* @include btn; */
+    padding: 2rem;
+    /* background-color: red; */
+}
